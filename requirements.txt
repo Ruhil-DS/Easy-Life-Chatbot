@@ -1,0 +1,4 @@
+Flask
+requests_html
+bs4
+requests
